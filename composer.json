@@ -1,0 +1,10 @@
+{
+    "name": "lmyfreeman/composer",
+    "authors": [
+        {
+            "name": "WeChat",
+            "email": "2515946609@qq.com"
+        }
+    ],
+    "require": {}
+}
